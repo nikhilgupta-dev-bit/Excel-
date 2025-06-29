@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Excel Analytics Project
 
 ## Features
@@ -23,3 +24,7 @@
 
 ## Folder Structure
 See project directories for details. 
+=======
+# Excel-
+>>>>>>> f61a86cfb4646aaa7fdcb1052bbaa7017766a87d
+# Excel--Analatics-
